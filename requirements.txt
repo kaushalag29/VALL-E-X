@@ -1,8 +1,8 @@
 soundfile
-numpy
-torch
-torchvision
-torchaudio
+#numpy
+#torch
+#torchvision
+#torchaudio
 tokenizers
 encodec
 langid
